@@ -39,7 +39,7 @@ body
     font-weight: 900;
     color: rgba(255, 255, 255, 0.800);
 }
-#Num_Input1, #Num_Input2
+#number1, #number2
 {
-    width: 275px;
+    width: 300px;
 }
