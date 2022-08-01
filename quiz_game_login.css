@@ -43,3 +43,17 @@ body
 {
     width: 300px;
 }
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    width: 400px;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#player_1, #player_2, #player1_score, #player2_score
+{
+    color: white;
+}
